@@ -1,16 +1,8 @@
-<h2>Wellcome Users</h2>
-<button onclick="myFunction()">Try it</button>
-<script>
-function myFunction() {
-  alert("I am an alert box!");
-}
-</script>
-
 <h1 align="center">Hi 👋, I'm Abdulrehman Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="right"alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0MmkilEpumCXCybHsggiHf&ust=1705056180936000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjM7rOT1YMDFQAAAAAdAAAAABAr"
 
-<p align="left"><imgs src="https://komarev.com/ghpvc/?username=abdulrehmansiddiqu&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmansiddiqu" /> </p>
+<p align="left"><imgs src="https://komarev.com/ghpvc/?username=abdulrehmansiddiqu&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmansiddiqu" imgs/> </p>
 
 - 🌱 I’m currently learning **Full stack developer**
 
@@ -70,4 +62,3 @@ function myFunction() {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmansiddiqu&"
         alt="abdulrehmansiddiqu" /></p>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
