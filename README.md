@@ -1,6 +1,21 @@
 
-
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"  />
+</div>
+
+<div align="center">
+  <a href="https://discord.gg/csZU6uaVWC" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Join%20Our%20Community!&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+
 <h1 align="center">Hi 👋, I'm Abdulrehman Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="right"alt="coding" width="400"
