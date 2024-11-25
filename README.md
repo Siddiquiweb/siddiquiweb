@@ -22,7 +22,9 @@
 ---
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=abdulrehmansiddiqu](https://www.linkedin.com/in/abdulrehman-siddiqui-0b250b264/)&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/abdulrehman-siddiqui-0b250b264/" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=abdulrehmansiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</a>alt="Profile Views" />
 </p>
 
 ### 🌟 About Me
