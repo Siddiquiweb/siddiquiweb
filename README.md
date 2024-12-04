@@ -80,3 +80,7 @@
 <div align="center">
   <img height="120" src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_down.svg" />
 </div>
+[![](https://visitcount.itsvg.in/api?id=Siddiquiweb&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Siddiquiweb&label=Profile%20Views&icon=0&pretty=false" />
+</a>
