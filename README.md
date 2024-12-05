@@ -24,7 +24,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulrehman-siddiqui-0b250b264/" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=abdulrehmansiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</a>alt="Profile Views" />
 </p>
 
 ### 🌟 About Me
@@ -45,9 +44,9 @@
   <a href="https://discord.gg/csZU6uaVWC" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://visitcount.itsvg.in">
+<!--   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Siddiquiweb&label=Profile%20Views&icon=0&pretty=false" />
-</a>
+</a> -->
 
 </div>
 
